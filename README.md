@@ -455,3 +455,5 @@ The application is ready for deployment on platforms like:
 
 Make sure to update environment variables and CORS settings for production deployment.
 
+
+

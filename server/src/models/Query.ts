@@ -25,3 +25,5 @@ const QuerySchema = new Schema<IQuery>(
 const QueryModel =
   mongoose.models.Query || mongoose.model<IQuery>("Query", QuerySchema);
 export default QueryModel;
+
+
