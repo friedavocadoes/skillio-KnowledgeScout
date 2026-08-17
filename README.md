@@ -1,5 +1,6 @@
 # KnowledgeScout - Document Q&A System
-
+>[!WARNING]
+>This project has been discontinued. You may fork if required.
 A hackathon project that allows users to upload documents and ask questions with AI-powered answers using Google Gemini API.
 
 ## 🚀 Features
